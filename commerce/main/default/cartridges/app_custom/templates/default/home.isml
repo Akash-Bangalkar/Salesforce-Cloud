@@ -1,0 +1,8 @@
+<isdecorate template="common/layout/page">
+    <isreplace name="body">
+
+        <h1>Welcome to Electronics Store</h1>
+        <p>This is my first ISML page</p>
+
+    </isreplace>
+</isdecorate>
